@@ -1,10 +1,10 @@
 module.exports = {
   title: 'Project Name',
   tagline: 'Describe your project in one sentence.', // one sentence description
-  url: 'https://sustech-canstudio.github.io',
+  url: 'https://airine.github.io',
   baseUrl: '/project-with-docs/',
   favicon: 'img/favicon.ico',
-  organizationName: 'SUSTech-CANStudio', // Usually your GitHub org/user name.
+  organizationName: 'Airine', // Usually your GitHub org/user name.
   projectName: 'project-with-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
@@ -20,8 +20,8 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {href: 'https://SUSTech-CANStudio.github.io/blog', label: 'Blog', position: 'left'},
-        {href: 'https://SUSTech-CANStudio.github.io/', label: 'Home', position: 'right'},
+        {href: 'https://airine.github.io/blog', label: 'Blog', position: 'left'},
+        {href: 'https://airine.github.io/', label: 'Home', position: 'right'},
         {
           href: 'https://github.com/SUSTech-CANStudio/project-with-docs',
           label: 'GitHub',
@@ -63,7 +63,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/SUSTech-CANStudio',
+              href: 'https://github.com/airine',
             }
           ],
         },
@@ -78,7 +78,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/SUSTech-CANStudio/project-with-docs/edit/master/docs/',
+            'https://github.com/airine/project-with-docs/edit/master/docs/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
