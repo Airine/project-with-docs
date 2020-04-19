@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Project Name',
   tagline: 'Describe your project in one sentence.', // one sentence description
-  url: 'https://airine.github.io',
+  url: 'https://blog.aaron-xin.tech/',
   baseUrl: '/project-with-docs/',
   favicon: 'img/favicon.ico',
   organizationName: 'Airine', // Usually your GitHub org/user name.
@@ -23,7 +23,7 @@ module.exports = {
         {href: 'https://airine.github.io/blog', label: 'Blog', position: 'left'},
         {href: 'https://airine.github.io/', label: 'Home', position: 'right'},
         {
-          href: 'https://github.com/SUSTech-CANStudio/project-with-docs',
+          href: 'https://github.com/airine/project-with-docs',
           label: 'GitHub',
           position: 'right',
         },
