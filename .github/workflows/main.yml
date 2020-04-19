@@ -29,4 +29,4 @@ jobs:
     - name: Deploy
       run: |
         cd docs
-        GIT_USER=Airine && yarn deploy
+        GIT_USER=airine yarn deploy
