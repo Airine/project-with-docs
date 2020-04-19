@@ -21,8 +21,4 @@ cd docs
 
 2. 用搜索将 `project-with-docs` 换成repo名称。
 
----
-
-# Need Help (TODO)
-
-目前，文档的目录结构并不完善，仍用docusaurus的template。如果你使用这个template完成了一个完整的项目，请借鉴你的文档结构完善这个template。
+### GitHub Actions
