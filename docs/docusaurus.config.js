@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Project Name',
   tagline: 'Describe your project in one sentence.', // one sentence description
-  url: 'https://blog.aaron-xin.tech/',
+  url: 'https://www.aaron-xin.tech/',
   baseUrl: '/project-with-docs/',
   favicon: 'img/favicon.ico',
   organizationName: 'Airine', // Usually your GitHub org/user name.
@@ -13,14 +13,13 @@ module.exports = {
         alt: 'SUSTech CANStudio Logo',
         src: 'img/logo.svg',
       },
-      links: [
+      items: [
         {
           to: 'docs/doc1',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
         },
-        {href: 'https://airine.github.io/blog', label: 'Blog', position: 'left'},
         {href: 'https://airine.github.io/', label: 'Home', position: 'right'},
         {
           href: 'https://github.com/airine/project-with-docs',
