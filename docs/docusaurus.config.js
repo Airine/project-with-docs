@@ -45,15 +45,6 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
-          items: [
-            {
-              label: 'Slack channel',
-              href: 'https://canstudio-r.slack.com',
-            },
-          ],
-        },
-        {
           title: 'Social',
           items: [
             {
